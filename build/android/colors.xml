@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 19 Oct 2022 11:43:59 GMT
+-->
+<resources>
+  <color name="color_base_danger900">#ff7f1d1d</color>
+  <color name="color_base_primary100">#ffede9fe</color>
+  <color name="color_base_primary900">#ff4c1d95</color>
+  <color name="color_base_success600">#ff16a34a</color>
+  <color name="color_base_neutral500">#ff64748b</color>
+  <color name="color_base_base_black">#ff000000</color>
+  <color name="color_base_neutral600">#ff475569</color>
+  <color name="color_base_neutral800">#ff1e293b</color>
+  <color name="color_base_neutral400">#ff94a3b8</color>
+  <color name="color_base_primary400">#ffa78bfa</color>
+  <color name="color_base_primary600">#ff7c3aed</color>
+  <color name="color_base_primary800">#ff5b21b6</color>
+  <color name="color_base_neutral300">#ffcbd5e1</color>
+  <color name="color_base_primary700">#ff6d28d9</color>
+  <color name="color_base_primary500">#ff8b5cf6</color>
+  <color name="color_base_danger400">#fff87171</color>
+  <color name="color_base_danger700">#ffb91c1c</color>
+  <color name="color_base_danger500">#ffef4444</color>
+  <color name="color_base_warning600">#ffd97706</color>
+  <color name="color_base_informative100">#ffdbeafe</color>
+  <color name="color_base_success50">#fff0fdf4</color>
+  <color name="color_base_warning900">#ff78350f</color>
+  <color name="color_base_informative50">#ffeff6ff</color>
+  <color name="color_base_informative800">#ff1e40af</color>
+  <color name="color_base_success700">#ff15803d</color>
+  <color name="color_base_danger300">#fffca5a5</color>
+  <color name="color_base_success400">#ff4ade80</color>
+  <color name="color_base_success800">#ff166534</color>
+  <color name="color_base_danger200">#fffecaca</color>
+  <color name="color_base_neutral900">#ff0f172a</color>
+  <color name="color_base_informative500">#ff3b82f6</color>
+  <color name="color_base_informative900">#ff1e3a8a</color>
+  <color name="color_base_success900">#ff14532d</color>
+  <color name="color_base_danger50">#fffef2f2</color>
+  <color name="color_base_danger800">#ff991b1b</color>
+  <color name="color_base_success500">#ff22c55e</color>
+  <color name="color_base_warning100">#fffef3c7</color>
+  <color name="color_base_neutral50">#fff8fafc</color>
+  <color name="color_base_primary300">#ffc4b5fd</color>
+  <color name="color_base_informative200">#ffbfdbfe</color>
+  <color name="color_base_success200">#ffbbf7d0</color>
+  <color name="color_base_warning400">#fffbbf24</color>
+  <color name="color_base_danger100">#fffee2e2</color>
+  <color name="color_base_neutral100">#fff1f5f9</color>
+  <color name="color_base_neutral700">#ff334155</color>
+  <color name="color_base_base_white">#ffffffff</color>
+  <color name="color_base_informative700">#ff1d4ed8</color>
+  <color name="color_base_informative600">#ff2563eb</color>
+  <color name="color_base_warning300">#fffcd34d</color>
+  <color name="color_base_warning50">#fffffbeb</color>
+  <color name="color_base_informative300">#ff93c5fd</color>
+  <color name="color_base_success100">#ffdcfce7</color>
+  <color name="color_base_warning200">#fffde68a</color>
+  <color name="color_base_warning800">#ff92400e</color>
+  <color name="color_base_neutral200">#ffe2e8f0</color>
+  <color name="color_base_primary50">#fff5f3ff</color>
+  <color name="color_base_primary200">#ffddd6fe</color>
+  <color name="color_base_danger600">#ffdc2626</color>
+  <color name="color_base_success300">#ff86efac</color>
+  <color name="color_base_warning500">#fff59e0b</color>
+  <color name="color_base_informative400">#ff60a5fa</color>
+  <color name="color_base_warning700">#ffb45309</color>
+  
+</resources>
