@@ -1,0 +1,50 @@
+{
+    "source": [
+        "output/tokens/**/*.json"
+    ],
+    "platforms": {
+        "android": {
+            "transformGroup": "android",
+            "buildPath": "build/android/",
+            "files": [
+                {
+                    "destination": "font_dimens.xml",
+                    "format": "android/fontDimens"
+                },
+                {
+                    "destination": "colors.xml",
+                    "format": "android/colors"
+                }
+            ]
+        },
+        "compose": {
+            "transformGroup": "compose",
+            "buildPath": "build/compose/",
+            "files": [
+                {
+                    "destination": "StyleDictionaryColor.kt",
+                    "format": "compose/object",
+                    "className": "MediumColorPalette",
+                    "packageName": "com.medium.android.design.theme",
+                    "filter": {
+                        "attributes": {
+                            "category": "color"
+                        }
+                    }
+                },
+                {
+                    "destination": "StyleDictionarySize.kt",
+                    "format": "compose/object",
+                    "className": "StyleDictionarySize",
+                    "packageName": "StyleDictionarySize",
+                    "type": "float",
+                    "filter": {
+                        "attributes": {
+                            "category": "size"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
