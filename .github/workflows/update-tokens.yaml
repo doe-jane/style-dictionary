@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Install Node Dependencies
-      run: npm install style-dictionary
+      run: npm install
     - name: Build Style Dictionary
       run: npm run build
     - name: Commit Generated Platform Deliverables
