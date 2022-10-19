@@ -1,5 +1,5 @@
 {
-  "repository": "@acme-inc/SD",
+  "repository": "@acme-inc/all-design-data",
   "head": "specify",
   "base": "main",
   "rules": [
