@@ -1,0 +1,18 @@
+{
+  "size": {
+    "base": {
+      "baseSpace10": { "value": "56px" },
+      "baseSpace3": { "value": "12px" },
+      "baseSpace8": { "value": "40px" },
+      "baseSpace2": { "value": "8px" },
+      "baseSpace9": { "value": "48px" },
+      "baseSpace4": { "value": "16px" },
+      "baseSpace7": { "value": "32px" },
+      "baseSpace5": { "value": "20px" },
+      "baseSpace6": { "value": "24px" },
+      "baseSpace12": { "value": "80px" },
+      "baseSpace1": { "value": "4px" },
+      "baseSpace11": { "value": "265px" }
+    }
+  }
+}

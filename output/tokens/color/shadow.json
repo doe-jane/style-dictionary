@@ -1,0 +1,25 @@
+{
+  "color": {
+    "shadow": {
+      "shadow2Xl": { "0": { "value": "#00000040" } },
+      "shadowLg": {
+        "0": { "value": "#0000001a" },
+        "1": { "value": "#0000001a" }
+      },
+      "shadowSm": {
+        "0": { "value": "#0000001a" },
+        "1": { "value": "#0000001a" }
+      },
+      "shadowXs": { "0": { "value": "#0000000d" } },
+      "shadowInner": { "0": { "value": "#0000000d" } },
+      "shadowMd": {
+        "0": { "value": "#0000001a" },
+        "1": { "value": "#0000001a" }
+      },
+      "shadowXl": {
+        "0": { "value": "#0000001a" },
+        "1": { "value": "#0000001a" }
+      }
+    }
+  }
+}
