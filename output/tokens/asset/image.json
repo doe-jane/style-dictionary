@@ -1,0 +1,13 @@
+{
+  "asset": {
+    "image": {
+      "thumbnail": { "value": "thumbnail@2.jpg" },
+      "bitmap02": { "value": "bitmap-02@1.jpg" },
+      "bitmap05": { "value": "bitmap-05@1.jpg" },
+      "bitmap01": { "value": "bitmap-01@1.jpg" },
+      "bitmap03": { "value": "bitmap-03@1.jpg" },
+      "bitmap04": { "value": "bitmap-04@1.jpg" },
+      "bitmap06": { "value": "bitmap-06@1.jpg" }
+    }
+  }
+}

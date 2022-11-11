@@ -1,0 +1,12 @@
+{
+  "time": {
+    "base": {
+      "durationSlower": { "value": "800ms" },
+      "durationFast": { "value": "400ms" },
+      "durationSlow": { "value": "600ms" },
+      "durationSlowest": { "value": "1s" },
+      "durationFaster": { "value": "200ms" },
+      "durationFastest": { "value": "100ms" }
+    }
+  }
+}

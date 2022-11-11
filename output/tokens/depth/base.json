@@ -1,0 +1,16 @@
+{
+  "depth": {
+    "base": {
+      "level6": { "value": "6" },
+      "level9": { "value": "9" },
+      "level7": { "value": "7" },
+      "level10": { "value": "10" },
+      "level3": { "value": "3" },
+      "level5": { "value": "5" },
+      "level8": { "value": "8" },
+      "level4": { "value": "4" },
+      "level2": { "value": "2" },
+      "level1": { "value": "1" }
+    }
+  }
+}
