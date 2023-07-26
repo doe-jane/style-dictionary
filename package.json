@@ -1,8 +1,8 @@
 {
     "scripts": {
-        "build": "style-dictionary build --config ./config.json;"
+        "build": "style-dictionary build --config ./config.js;"
     },
     "dependencies": {
-        "style-dictionary": "^3.7.1"
+        "style-dictionary": "^3.8.0"
     }
 }
