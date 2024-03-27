@@ -1,13 +1,13 @@
 {
   "size": {
     "font": {
-      "subtitle": { "value": "18px" },
-      "section": { "value": "12px" },
+      "bodyM": { "value": "14px" },
       "heading2": { "value": "24px" },
       "heading1": { "value": "32px" },
-      "code": { "value": "14px" },
       "bodyS": { "value": "14px" },
-      "bodyM": { "value": "14px" },
+      "code": { "value": "14px" },
+      "subtitle": { "value": "18px" },
+      "section": { "value": "12px" },
       "bodyL": { "value": "14px" }
     }
   }

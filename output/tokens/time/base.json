@@ -2,11 +2,11 @@
   "time": {
     "base": {
       "durationSlowest": { "value": "1000" },
+      "durationFast": { "value": "400" },
+      "durationFaster": { "value": "200" },
       "durationSlower": { "value": "800" },
       "durationSlow": { "value": "600" },
-      "durationFastest": { "value": "100" },
-      "durationFaster": { "value": "200" },
-      "durationFast": { "value": "400" }
+      "durationFastest": { "value": "100" }
     }
   }
 }
